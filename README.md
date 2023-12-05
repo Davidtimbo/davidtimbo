@@ -4,7 +4,7 @@ Sou desenvolvedor Back-end, estou constantemente aprimorando meu conhecimento em
 
 
 - 💻 Hoje trabalho com Back-end
-- 👨🏻‍💻 Estudando Linux e PHP
+- 👨🏻‍💻 Estudando Linux, PHP e Mysql
 
 
 ## 🔥 Linguagens e ferramentas
