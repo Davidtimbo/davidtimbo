@@ -55,11 +55,12 @@ Sou desenvolvedor Back-end, estou constantemente aprimorando meu conhecimento em
  ## 👥 Contato
 <p>📩 Email: davidtimbo3@gmail.com</p>
 
-<<div>
-   <a href="https://www.linkedin.com/in/davidmelo-/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<div>
+   <a href="https://www.linkedin.com/in/davidmelo-" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a> 
 </div>
+
 
 
   
