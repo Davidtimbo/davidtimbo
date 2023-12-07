@@ -1,7 +1,8 @@
 ## Olá!! 👋
-Eu sou David! 
-Sou desenvolvedor Back-end, estou constantemente aprimorando meu conhecimento em programação e me mantendo atualizado! 
+Eu sou D<img height="25px" src="https://img.shields.io/badge/DEV-%23181717.svg?style=for-the-badge&logo=dev.to&logoColor=white" width="55px"/>
+avid!
 
+Sou desenvolvedor Back-end em formação, estou constantemente aprimorando meu conhecimento em programação e me mantendo atualizado! 
 
 - 💻 Hoje trabalho com Back-end
 - 👨🏻‍💻 Estudando Linux, PHP e Mysql
@@ -29,6 +30,7 @@ Sou desenvolvedor Back-end, estou constantemente aprimorando meu conhecimento em
       <td><strong>Sistemas Operacionais</strong></td>
       <td>
         <img height="25px" src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white" width="65px"/> 
+        <img height="25px" src="https://img.shields.io/badge/windows-%230078D7.svg?style=for-the-badge&logo=windows&logoColor=white" width="75px"/>
       </td>
     </tr>
     <tr>
@@ -36,7 +38,7 @@ Sou desenvolvedor Back-end, estou constantemente aprimorando meu conhecimento em
       <td>
         <img height="25px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="160px"/>
         <img height="25px" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" width="120px"/>
-        <img height="25px" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white" width="105px"/>
+        <img height="25px" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white" width="105px"/>      
       </td>
     </tr>
   </table>
