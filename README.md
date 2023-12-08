@@ -6,7 +6,7 @@ avid!
 Sou desenvolvedor Back-end em formação, estou constantemente aprimorando meu conhecimento em programação e me mantendo atualizado!      
 
 - 💻 Hoje trabalho com Back-end
-- 👨🏻‍💻 Estudando Linux, PHP e Mysql
+- 👨🏻‍💻 Estudando Linux, PHP e Postgresql
  <img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px" style="float: right;">
 
 
@@ -26,7 +26,7 @@ Sou desenvolvedor Back-end em formação, estou constantemente aprimorando meu c
     <tr>
       <td><strong>Banco de dados</strong></td>
       <td>
-        <img height="25px" src="https://img.shields.io/badge/mysql-696969.svg?style=for-the-badge&logo=mysql&logoColor=black" width="75px"/>
+       <img height="25px" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=black" width="115px"/>
       </td>
     </tr>
     <tr>
@@ -55,7 +55,9 @@ Sou desenvolvedor Back-end em formação, estou constantemente aprimorando meu c
   <img align="center" alt="David-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="David-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="David-Python" height="30" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg
+  <img align="center" alt="David-Python" height="30" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg>
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg?tyle=for-the-badge&logo=Github&logoColor=white"/>
 </div>
 
  ## 👥 Contato
