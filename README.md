@@ -3,12 +3,10 @@ Eu sou D<img height="25px" src="https://img.shields.io/badge/DEV-%23181717.svg?s
 avid!
 
 
-Sou desenvolvedor Back-end em formação, estou constantemente aprimorando meu conhecimento em programação e me mantendo atualizado!      
+Sou desenvolvedor em formação, estou constantemente aprimorando meu conhecimento em programação e me mantendo atualizado!      
 
 - 💻 Hoje trabalho com Back-end
 - 👨🏻‍💻 Estudando Linux, PHP e Postgresql
- <img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px" style="float: right;">
-
 
 
 ## 🔥 Linguagens e ferramentas
