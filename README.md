@@ -1,6 +1,6 @@
 ## Olá!! 👋
-Eu sou D<img height="25px" src="https://img.shields.io/badge/DEV-%23181717.svg?style=for-the-badge&logo=dev.to&logoColor=white" width="55px"/>
-avid!
+Eu sou <img height="25px" src="https://img.shields.io/badge/DEV-%23181717.svg?style=for-the-badge&logo=dev.to&logoColor=white" width="55px"/>
+David!
 
 
 Sou desenvolvedor em formação, estou constantemente aprimorando meu conhecimento em programação e me mantendo atualizado!      
