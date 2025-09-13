@@ -6,7 +6,7 @@ David!
 Sou desenvolvedor em formação, estou constantemente aprimorando meu conhecimento em programação e me mantendo atualizado!      
 
 - 💻 Hoje trabalho com Back-end
-- 👨🏻‍💻 Estudando Linux, PHP e Postgresql
+- 👨🏻‍💻 Estudando Linux, Java, Python e Postgresql
 
 
 ## 🔥 Linguagens e ferramentas
