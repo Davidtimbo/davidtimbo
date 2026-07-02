@@ -62,7 +62,7 @@ Sou desenvolvedor em formação, estou constantemente aprimorando meu conhecimen
 <p>📩 Email: davidtimbo3@gmail.com</p>
 
 <div>
-   <a href="https://www.linkedin.com/in/davidmelo-" target="_blank">
+   <a href="https://www.linkedin.com/in/davidtimbo" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a> 
 </div>
